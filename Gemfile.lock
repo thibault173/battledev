@@ -1,0 +1,35 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    amazing_print (1.2.2)
+    diff-lcs (1.4.4)
+    json (2.3.1)
+    rspec (3.10.0)
+      rspec-core (~> 3.10.0)
+      rspec-expectations (~> 3.10.0)
+      rspec-mocks (~> 3.10.0)
+    rspec-core (3.10.0)
+      rspec-support (~> 3.10.0)
+    rspec-expectations (3.10.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.10.0)
+    rspec-mocks (3.10.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.10.0)
+    rspec-support (3.10.0)
+    yaml (0.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  amazing_print
+  json
+  rspec
+  yaml
+
+RUBY VERSION
+   ruby 2.6.6p146
+
+BUNDLED WITH
+   2.1.4
